@@ -16,10 +16,6 @@
 ## **2. Objetivo da Análise**
 - **Objetivo Principal**: Validar práticas que otimizem o aprendizado, permitindo reduzir a carga horária dedicada aos estudos, mantendo ou melhorando a absorção de conteúdo.  
 - **Problema a ser resolvido**: Identificar quais padrões de estudo, refeições e sono estão correlacionados com uma melhor retenção de conteúdo.  
-- **Expectativas**:  
-  - Identificar um padrão de sono ideal para otimizar o aprendizado.
-  - Identificar um padrão ideal para refeições para otimizar o aprendizado.
-  - Identificar um padrão ideal de estudo mais eficazes para otimizar o aprendizado.
  
 Obs: Existem muitas outras variáveis que podem influenciar nos resultados, mas vou focar nas variáveis que posso controlar.
 
