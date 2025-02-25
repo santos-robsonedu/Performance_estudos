@@ -24,13 +24,13 @@
 
 ![questoes](https://github.com/user-attachments/assets/e9be6757-4441-4611-af0b-d140c78f360b)
 
-   6.1 **Questão 1**: Cada questão terá um número (1 a 10).  
+6.1 **Questão 1**: Cada questão terá um número (1 a 10).  
      - Na tabela `notas` será gravado na coluna `pergunta`.
-   6.2 **Id 1**: Cada questão será vinculada ao registro de estudo correspondente.  
+6.2 **Id 1**: Cada questão será vinculada ao registro de estudo correspondente.  
      - Na tabela `notas` será gravado na coluna `id_estudo`.
-   6.3 **Alternativas**: O script indicará se a resposta está correta ou não (1 para acerto, 0 para erro).  
+6.3 **Alternativas**: O script indicará se a resposta está correta ou não (1 para acerto, 0 para erro).  
      - Na tabela `notas` será gravado na coluna `acerto`.
-   6.4 **Enviar Resposta**: O script registra o timestamp do início ao gerar a pergunta e o timestamp de término ao enviar a resposta, permitindo calcular o tempo de resposta.  
+6.4 **Enviar Resposta**: O script registra o timestamp do início ao gerar a pergunta e o timestamp de término ao enviar a resposta, permitindo calcular o tempo de resposta.  
      - Na tabela `notas`, os valores serão gravados nas colunas `inicio` e `termino`.
    - Ao finalizar todas as perguntas, os dados serão gravados na tabela `notas`, com cada pergunta sendo registrada em uma nova linha. A coluna `id`, sendo chave primária, será preenchida automaticamente pelo MySQL.
 
