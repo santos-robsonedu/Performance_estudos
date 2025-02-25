@@ -1,4 +1,5 @@
 # Instruções para uso dos Scripts
+![janela_estudos](https://github.com/user-attachments/assets/674939e5-b431-4346-b707-58ed139da98f)
 
 ## estudos.ipynb
 
