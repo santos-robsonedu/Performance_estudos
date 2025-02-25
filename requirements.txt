@@ -1,0 +1,15 @@
+certifi==2023.11.17
+google-ai-generativelanguage==0.6.15
+google-api-core==2.16.0
+google-api-python-client==2.113.0
+google-auth==2.26.1
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.4
+google-resumable-media==2.4.1
+googleapis-common-protos==1.62.0
+httplib2==0.22.0
+ipython==8.21.0
+mysql-connector-python==8.3.0
+protobuf==4.25.3
+pytz==2024.1
+tk==0.1.0
