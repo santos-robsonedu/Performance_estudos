@@ -1,0 +1,1 @@
+Dado o seguinte texto: '{descricao}', qual dos seguintes assuntos melhor se encaixa?

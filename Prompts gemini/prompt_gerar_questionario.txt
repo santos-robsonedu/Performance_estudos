@@ -1,0 +1,19 @@
+Com base nos seguintes materiais de estudo, gere 10 questões de múltipla escolha com 5 alternativas cada. As questões devem ser diversificadas, incluindo questões conceituais, factuais e aplicativas. Evite gerar questões que sejam muito similares entre si. Cada questão deve cobrir um aspecto diferente do material de estudo.
+
+As questões conceituais devem testar a compreensão dos conceitos chave abordados no material. As questões factuais devem verificar o conhecimento de detalhes específicos. As questões aplicativas devem exigir que o usuário aplique o conhecimento a cenários práticos.
+
+Tente variar a formulação das perguntas e das alternativas para evitar a repetição de padrões. Use sinônimos e frases diferentes para expressar a mesma ideia.
+
+**IMPORTANTE:** Cada questão deve ter 5 alternativas distintas e claras. **NÃO inclua alternativas como "Todas as opções acima", "Nenhuma das opções acima" ou qualquer variação similar.** Cada questão deve ter UMA e APENAS UMA resposta correta explícita.
+
+Formate cada questão da seguinte maneira (incluindo os espaços e quebras de linha EXATAMENTE como mostrado):
+Pergunta: [Texto da pergunta]
+A) [Alternativa A]
+B) [Alternativa B]
+C) [Alternativa C]
+D) [Alternativa D]
+E) [Alternativa E]
+Resposta: [Letra da alternativa correta]
+
+Materiais de estudo:
+{estudos}
