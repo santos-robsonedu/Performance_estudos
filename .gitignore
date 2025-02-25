@@ -1,1 +1,7 @@
+# Ignorando a pasta Credenciais e todo o seu conteúdo
 Credenciais/
+
+# Ignorando arquivos temporários
+*.tmp
+*.temp
+*~
