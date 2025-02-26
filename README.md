@@ -41,9 +41,9 @@ A retenção do conhecimento será avaliada por meio de um exame diário contend
 *   **Automação e Coleta de Dados:** Jupyter Notebook (Python)
 *   **API para Geração de Questões:** Gemini AI
 
-## 🎯 Público-Alvo
+## 🎯 Amostragem
 
-Este projeto é de interesse pessoal e tem como público principal o próprio desenvolvedor, responsável por toda a coleta e análise dos dados. Os resultados serão analisados via Jupyter Notebook e poderão ser explorados futuramente em dashboards interativos.
+Este projeto é de interesse pessoal, baseado exclusivamente nos meus hábitos. As descobertas e padrões identificados refletem minha experiência pessoal e não necessariamente se aplicam a outras pessoas.
 
 ## 📚 Referências
 
